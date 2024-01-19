@@ -1,6 +1,6 @@
 # Stock-AMI
 
-I'm part of the Software Engineering group at Omni Eletronica. Together we developed new technologies for managing IoT applications making smart environments.
+I'm part of the Software Engineering group at Omni Eletronica <https://www.omni-electronica.com.br/>. Together we developed new technologies for managing IoT applications making smart environments.
 
 <hr>
 
