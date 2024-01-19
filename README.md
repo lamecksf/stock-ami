@@ -1,4 +1,8 @@
-# stock-ami
+# Stock-AMI
+
+I'm part of the Software Engineering group at Omni Eletronica. Together we developed new technologies for managing IoT applications making smart environments.
+
+<hr>
 
 Stock-Ami is an application that started under the name Amihub.
 AmI is the scientific acronym for Ambient Intelligence and served as inspiration for this sBuilding Operating System (BOS) that optimizes Facility Management operations.
